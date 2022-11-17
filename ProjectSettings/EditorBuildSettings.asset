@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingProgress.unity
     guid: 12b121e4baaf83b41af1058e569c6567
+  - enabled: 1
+    path: Assets/Scenes/MobileInput.unity
+    guid: 291ef378b4f8bcb4da916a4b314e1056
+  - enabled: 1
+    path: Assets/Scenes/Analytics.unity
+    guid: c15297396ae242948a3a659e0661ccf0
+  - enabled: 1
+    path: Assets/Scenes/3DMaze.unity
+    guid: f71b5a276cb2e8b4ba2c047ed001576f
   m_configObjects: {}
