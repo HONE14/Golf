@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
   m_EditorClassIdentifier: 
-  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"82108962-3634-474c-86d4-bc294dc2332c\"\r\n   
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4e719a3-6fe4-4fea-98a9-61746407b0bc\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"Gravity\",\r\n      \"type\": \"float\",\r\n     
     \"value\": 60.0\r\n    }\r\n  }\r\n]"
-  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"82108962-3634-474c-86d4-bc294dc2332c\"\r\n   
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4e719a3-6fe4-4fea-98a9-61746407b0bc\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"Gravity\",\r\n      \"type\": \"float\",\r\n     
     \"value\": 60.0\r\n    }\r\n  }\r\n]"
   _environments: "[\r\n  {\r\n    \"projectId\": \"2a458399-9d6e-4794-96f7-43d7c9fad985\",\r\n   
